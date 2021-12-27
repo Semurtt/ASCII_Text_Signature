@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Calculate_volume.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Concatenate_3_strings_with_separator.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Determine_the_result.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Gratuity.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Invocations.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Polynomial.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Summation.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Function_composition.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Max.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Not__predicate.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Polynomial.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Range_multiplication.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Non-overlapping_scopes.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Open_chest_in_Hogwarts.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Theory.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Scopes-What_is_the_scope.main" target="11" />
+      <module name="ASCII_Text_Signature.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

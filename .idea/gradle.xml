@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Calculate volume" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Gratuity" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Summation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Range multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Non-overlapping scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/What is the scope" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

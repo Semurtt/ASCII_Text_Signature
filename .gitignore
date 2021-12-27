@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature/task/build/
+/ASCII Text Signature/task/out/
+/ASCII Text Signature/task/out/production/classes/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/
+/Topics/Default arguments/Concatenate 3 strings with separator/out/production/classes/
+/Topics/Lambda expressions/Not  predicate/out/
+/Topics/Lambda expressions/Not  predicate/out/production/classes/
+/Topics/Lambda expressions/Range multiplication/out/
+/Topics/Lambda expressions/Range multiplication/out/production/classes/
